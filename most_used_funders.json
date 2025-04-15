@@ -1,0 +1,44 @@
+{
+    "funders": [
+        {
+            "ror": "https://ror.org/00k4n6c32",
+            "name": "European Commission"
+        },
+        {
+            "ror": "https://ror.org/0472cxd90",
+            "name": "European Research Council"
+        },
+        {
+            "ror": "https://ror.org/05r0vyz12",
+            "name": "Ministerio de Ciencia, Innovación y Universidades"
+        },
+        {
+            "ror": "https://ror.org/003x0zc53",
+            "name": "Agencia Estatal de Investigación"
+        },
+        {
+            "ror": "https://ror.org/034900433",
+            "name": "Ministry of Economy, Industry and Competitiveness"
+        },
+        {
+            "ror": "https://ror.org/01n4pqe45",
+            "name": "Agència de Gestió d'Ajuts Universitaris i de Recerca"
+        },
+        {
+            "ror": "https://ror.org/01bg62x04",
+            "name": "Government of Catalonia"
+        },
+        {
+            "ror": "https://ror.org/00g5sqv46",
+            "name": "Universitat Rovira i Virgili"
+        },
+        {
+            "ror": "https://ror.org/00zg6q231",
+            "name": "Ajuntament de Barcelona"
+        },
+        {
+            "ror": "https://ror.org/03zhx9h04",
+            "name": "CaixaBank"
+        }
+    ]
+}
