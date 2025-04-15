@@ -23,6 +23,6 @@ Un cop obtinguda aquesta informació, es formata i s'incorpora al selector.
 
 El resultat, és un selector que permet la cerca d'elements tant "vernacles" com "alternatius". 
 
-Es pot fer un test amb:\
-    "MICINN" i comprovant que retorna el valor "Ministerio de Ciencia, Innovación y Universidades"\
-    "Generalitat" i comprovant que retorna "Government of Catalonia"
+Es pot fer un test amb:  
+- "MICINN" i comprovant que retorna el valor "Ministerio de Ciencia, Innovación y Universidades"  
+- "Generalitat" i comprovant que retorna "Government of Catalonia"
