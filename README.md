@@ -2,6 +2,7 @@ Aquesta carpeta conté una web per provar el funcionament de l'API de ROR.
 
 La programació ha sigut realitzada intentant usar el mínim d'elements possibles. 
 Per comprovar el funcionament de l'aplicatiu, s'ha usat Live Server a Visual Studio Code.
+Introduint la carpeta generada en un servidor virtualitzat tipus XAMPP també funciona correctament.
 
 Fitxers:
     index.css -------------- estils de la pàgina
