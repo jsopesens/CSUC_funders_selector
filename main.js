@@ -1,30 +1,28 @@
 const MOST_USED_FUNDERS_FILE = './most_used_funders.json';
- 
+const URL_API_ROR = 'https://api.ror.org/v2/organizations/';
 
 async function getMostUsedFunders() {
     const rors = await getRors();
-    
-    return await Promise.all(rors.map(ror => get_options_data(ror)));
+    return await Promise.all(rors.map(ror => getOptionsData(ror)));
 }
 
-async function get_options_data(ror){
-    const ror_data = await call_api_ror(ror);
-    return construct_data_ror(ror_data);
+async function getOptionsData(ror){
+    const ror_data = await callApiROR(ror);
+    return constructDataROR(ror_data);
 }
 
-async function call_api_ror(ror) {
+async function callApiROR(ror) {
     const ror_id = ror.split('/').pop();
-    const response  = await fetch(`https://api.ror.org/v2/organizations/${ror_id}`)
+    const response  = await fetch(`${URL_API_ROR}${ror_id}`)
     return await response.json();
 }
 
-function construct_data_ror(data){
+function constructDataROR(data){
     const official = data.names.find(n => n.types.includes('ror_display'));
     const official_name = official ? official.value : null;
-
     const alt_names = data.names
-        .filter(n => !n.types.includes('ror_display'))
-        .map(n => n.value);
+    .filter(n => !n.types.includes('ror_display'))
+    .map(n => n.value);
 
     return {
         id: data.id,

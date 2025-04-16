@@ -1,0 +1,59 @@
+https://ror.org/00k4n6c32: 
+    European Commission 
+    Commission européenne 
+    EC
+    Europese Commissie
+    Europäische Kommission
+
+https://ror.org/05r0vyz12: 
+    Ministerio de Ciencia, Innovación y Universidades
+    MICINN
+    Ministerio de Ciencia e Innovación
+    Ministerio de Ciencia e Innovación de España
+    Ministerio de Ciencia, Innovación y Universidades de España
+    Ministry of Science and Information
+    Ministry of Science, Innovation and Universities
+    Ministry of Science, Innovation and Universities, Spain
+    Spanish Ministry of Science, Innovation and Universities
+
+https://ror.org/034900433: 
+    Ministry of Economy, Industry and Competitiveness
+    MINECO
+    Ministerio de Economía, Industria y Competitividad
+
+https://ror.org/00g5sqv46: 
+    Universitat Rovira i Virgili
+    Rovira i Virgili University
+    URV
+    Universidad Rovira i Virgili
+
+https://ror.org/01n4pqe45: 
+    Agència de Gestió d'Ajuts Universitaris i de Recerca
+    AGAUR
+    Agencia de Gestión de Ayudas Universitarias y de Investigación
+    Agency for Administration of University and Research
+    Agency for Management of University and Research Grants
+
+https://ror.org/00zg6q231: 
+    Ajuntament de Barcelona
+    Ayuntamiento de Barcelona
+    Barcelona City Council
+
+https://ror.org/003x0zc53: 
+    Agencia Estatal de Investigación
+    AEI
+
+https://ror.org/03zhx9h04: 
+    CaixaBank
+
+https://ror.org/0472cxd90: 
+    European Research Council
+    Conseil européen de la recherche
+    ERC
+    Europäischer Forschungsrat
+
+https://ror.org/01bg62x04: 
+    Government of Catalonia
+    Generalidad de Cataluña
+    Generalitat de Catalunya
+    Kataluniako Generalitatea
